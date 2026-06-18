@@ -30,3 +30,4 @@ Also think about what alpha actually is — [not prediction, but rent from marke
 ---
 
 *"Alpha is not treasure dug out of data by a model. Alpha is the trace left behind when someone is forced to stand on the wrong side of a trade."*
+ 
