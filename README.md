@@ -39,7 +39,8 @@
 | 仓库 | 内容 | 亮点 |
 |------|------|------|
 | [quant-intern](https://github.com/mzh-nuist/quant-intern) | 微盘因子研究 Q1–Q9、聚宽策略、ETF 轮动对比实验 | 七层交叉验证、方法论复盘 |
-| [quant](https://github.com/mzh-nuist/quant) | A 股回测框架：双均线 × 多因子选股 × ETF 动量轮动 | CLI + GUI、Yahoo Finance + akshare 双数据源 |
+| [quant](https://github.com/mzh-nuist/quant) | 双均线 × 多因子选股 × ETF 动量轮动 | CLI + GUI、双数据源 |
+| [etf-strategy](https://github.com/mzh-nuist/etf-strategy) | ETF 动量轮动 + PB 估值约束叠加 | 6 步逻辑、估值 overlay 降回撤 |
 
 ---
 
@@ -53,7 +54,7 @@
 
 2029 年毕业，数学本科 + 硕士。在找量化研究 / 交易方向的实习或全职机会。对中型私募、券商金工、期货量化都开放。如果我的研究方向跟你们团队有交集，欢迎联系。
 
-📧 mzh.nuist@gmail.com
+📧 mzh20031020@outlook.com
 
 ---
 
